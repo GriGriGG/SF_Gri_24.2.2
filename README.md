@@ -1,6 +1,6 @@
 # SF_Gri_24.2.2
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Создайте+новый+проект+с+необходимыми+директориями+и+файлами)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23fsdf7&lines=Создайте+новый+проект+с+необходимыми+директориями+и+файлами)]
 
 
 1. Напишите по одному позитивному тесту для каждого метода калькулятора.
